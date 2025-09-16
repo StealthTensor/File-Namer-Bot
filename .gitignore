@@ -1,0 +1,7 @@
+# Secret credential files
+service-account-key.json
+credentials.json
+
+# Output files and folders
+products_updated.csv
+uploaded_products/
